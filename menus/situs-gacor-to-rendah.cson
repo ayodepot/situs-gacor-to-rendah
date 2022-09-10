@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle situs-gacor-to-rendah'
+      'command': 'situs-gacor-to-rendah:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'situs-gacor-to-rendah'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'situs-gacor-to-rendah:toggle'
+        }
+      ]
+    ]
+  }
+]

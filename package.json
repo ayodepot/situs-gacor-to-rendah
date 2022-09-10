@@ -1,0 +1,15 @@
+{
+  "name": "situs-gacor-to-rendah",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Kumpulan Situs-Situs Tergacor Hari Ini",
+  "keywords": [
+    "slot gacor",
+    "situs gacor"
+  ],
+  "repository": "https://github.com/ayodepot/situs-gacor-to-rendah",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
